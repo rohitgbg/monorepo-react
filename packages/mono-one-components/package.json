@@ -1,5 +1,5 @@
 {
-  "name": "@rohit/mono-one-components-2021",
+  "name": "mono-one-components-rohit",
   "version": "1.0.3",
   "description": "Made with create-react-library",
   "author": "rohitgbg",
@@ -50,5 +50,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "f4e42d0be81f1ca25a0a8d3767ec063185d5e2a8"
+  "gitHead": "066e91747880dd163a9cf37521060460e4281646"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "usage-rohit",
-  "version": "1.0.0",
+  "name": "mono-two-components-rohit",
+  "version": "1.0.2",
   "description": "Made with create-react-library",
   "author": "rohitgbg",
   "license": "MIT",
@@ -49,5 +49,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "f4e42d0be81f1ca25a0a8d3767ec063185d5e2a8"
 }
