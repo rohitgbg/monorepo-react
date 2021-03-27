@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.7](https://github.com/rohitgbg/monorepo-react/compare/v1.0.6...v1.0.7) (2021-03-27)
+
+**Note:** Version bump only for package mono-one-components-rohit
+
+
+
+
+
 ## [1.0.6](https://github.com/rohitgbg/monorepo-react/compare/v1.0.5...v1.0.6) (2021-03-26)
 
 
